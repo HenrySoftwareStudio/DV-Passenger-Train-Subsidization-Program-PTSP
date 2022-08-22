@@ -1,0 +1,2 @@
+C:\Users\also me\source\repos\Passenger Train Subsidization Program (PTSP)\obj\Debug\Passenger Train Subsidization Program (PTSP).csproj.AssemblyReference.cache
+C:\Users\also me\source\repos\Passenger Train Subsidization Program (PTSP)\obj\Debug\Passenger Train Subsidization Program (PTSP).csproj.CoreCompileInputs.cache
