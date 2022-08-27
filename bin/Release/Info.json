@@ -1,0 +1,10 @@
+{
+  "Id": "PassengerTrainSubsidizationProgram",
+  "DisplayName": "Passenger Train Subsidization Program",
+  "Author": "Hen",
+  "Version": "1.1.3",
+  "EntryMethod": "Henry.Passenger_Train_Subsidization_Program.PassengerTrainSubsidizationProgram.Load",
+  "Requirements": [ "PassengerJobs" ],
+  "LoadAfter": [ "SlicedPassengerCars", "SkinManagerMod", "RedworkDE.DvTime", "DVCustomCarLoader", "PassengerJobs" ],
+  "Homepage": "https://www.nexusmods.com/derailvalley/mods/488"
+}
